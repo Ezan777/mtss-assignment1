@@ -2,7 +2,9 @@
 1170715
 
 ## Componenti
-* [processori.md](processori.md)
-* [schede_madri.md](schede_madri.md)
+* [componenti/processori.md](componenti/processori.md)
+* [componenti/schede_madri.md](componenti/schede_madri.md)
 ## Periferiche
+* [periferiche/tastiere.md](periferiche/tastiere.md)
+
 Elettronica Padovana
